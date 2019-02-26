@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Laila|ZCOOL+QingKe+HuangYou');
+html,body {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    background-image: url("http://i.imgur.com/wL2Glkl.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+h1 {
+    color: tomato;
+}
+.card {
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(243, 119, 119);
+    color: grey;
+    font-family: 'Laila', serif;
+    width: 500px;
+}

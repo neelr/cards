@@ -15,7 +15,9 @@ h1 {
     color: tomato;
 }
 .card {
+    padding: 20px;
     display: inline-block;
+    margin: 20px;
     border-radius: 10px;
     background-color: rgb(146, 3, 3);
     color: grey;
